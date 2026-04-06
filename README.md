@@ -77,7 +77,7 @@ The skill will analyse your codebase and walk you through each phase interactive
 
 ## Reference
 
-The framework is based on analysis of the [Mob](https://www.mob.co.uk/) recipe app's onboarding flow (19 screens), which is widely regarded as one of the best-converting onboarding experiences in the App Store. Reference screenshots are included in `assets/mob-reference/`.
+The framework is based on analysis of the [Mob](https://www.mob.co.uk/) recipe app's onboarding flow (19 screens), which is widely regarded as one of the best-converting onboarding experiences in the App Store.
 
 ## License
 
