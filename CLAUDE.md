@@ -10,7 +10,6 @@ A Claude Code skill (`app-onboarding-questionnaire`) that designs and builds hig
 
 - **SKILL.md** — The skill prompt. Defines a 5-phase workflow: App Discovery → User Transformation → Blueprint → Screen Content → Implementation. Uses memory to persist state across conversations.
 - **CLAUDE.md** — This file. Development guidance for working on the skill itself.
-- **assets/** — Reference screenshots from Mob's onboarding (the primary reference implementation).
 
 ## The Onboarding Framework
 
